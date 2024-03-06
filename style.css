@@ -1,0 +1,41 @@
+h1{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font: size 400px;;
+}
+
+P{
+    font-size: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lazy{
+position: fixed;
+top: 0;
+left: 0;
+min-width: 100%;
+min-height: 100%;
+z-index: -1;
+}
+img{
+    width: 1000px;
+    text-align: center;
+    align-items: center;
+    margin: 200px;
+    border-radius: 50px;
+    height: 300px;
+}
+.dani{
+   
+width: 500px;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    border-radius: 100px;
+    z-index: -1;
+
+}
+div{
+    text-align: center;
+}
